@@ -22,3 +22,12 @@ GASを使用して自動で請求書を作成するプロトタイプです。
 
 ## ファイル構成
 
+```
+gas-invoice-generator/
+├── README.md              # プロジェクト説明
+├── src/
+│   └── Code.gs           # メインのGASコード
+└── docs/
+    └── setup.md          # セットアップガイド
+```
+
